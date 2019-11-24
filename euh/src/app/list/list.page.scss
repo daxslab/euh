@@ -1,1 +1,14 @@
 
+ion-item{
+  cursor: pointer;
+  font-family: monospace;
+}
+
+ion-item a{
+  text-decoration: none;
+}
+
+ion-item .item-note{
+  color: #aaa;
+  font-size: .5em;
+}
