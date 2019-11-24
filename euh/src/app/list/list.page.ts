@@ -25,7 +25,7 @@ export class ListPage implements OnInit {
         {ussd: '*133#1#5#2', title: 'Paquete LTE 10Gb'},
 
     ];
-    public items: Array<{ title: string; note: string; icon: string; url: string }> = [];
+    public items: Array<{ title: string; note: string; url: string }> = [];
 
     constructor() {
         for (let command of this.commands) {
