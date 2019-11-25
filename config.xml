@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.daxslab.euh"
+    versionCode = "1"
+    version     = "0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>euh</name>
+
+  <description>
+      A helper for ETECSA USSD codes.
+  </description>
+
+  <author href="https://github.com/daxslab" email="glpz@daxslab.com">
+      Gabriel A. López
+  </author>
+
+  <author href="https://github.com/luilver" email="luilver@gmail.com">
+      Luilver Garcés
+  </author>
+
+  <platform name="ios" />
+
+</widget>
