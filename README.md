@@ -26,4 +26,4 @@ Here we will list common TODOs
 
 ## Copyright
 
-Copyright (c) 2019 Gabriel A. López. See LICENSE (when any) for details.
+Copyright (c) 2019 [Daxslab](https://www.daxslab.com) See LICENSE (when any) for details.
