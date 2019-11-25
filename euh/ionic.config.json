@@ -1,7 +1,5 @@
 {
   "name": "euh",
-  "integrations": {
-    "cordova": {}
-  },
+  "integrations": {},
   "type": "angular"
 }
