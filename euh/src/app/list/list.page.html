@@ -12,6 +12,7 @@
 <ion-content>
     <ion-list>
         <ion-item *ngFor="let item of items">
+            <ion-icon slot="start" [name]="item.icon"></ion-icon>
             <a href="{{item.url}}">{{item.title}}</a>
             <div class="item-note" slot="end">
                 {{item.note}}
